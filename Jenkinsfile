@@ -9,4 +9,4 @@ def configMap = [
 ]
 
 echo "Hello World"
-echo "Environment: $env"
+env
